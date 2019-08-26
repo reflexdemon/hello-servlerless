@@ -1,0 +1,6 @@
+name = "hello-servlerless"
+type = "webpack"
+zone_id = ""
+private = false
+account_id = "5fa8735032895bba3d87e85bfccdb15c"
+route = ""
